@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<head>
+<title>Tyrese Brewer</title>
+<h1>Job Title</h1>
+<p></p>
+<h2>Featured Projects</h2>
+<p></p>
+<h3>Project Name</h3>
+<p></p>
+<h4>Work Experience</h4>
+<p></p>
+<h5>Job Title</h5>
+<p></p>
+<h6>Education</h6>
+<h7>School Name-City</h7>
+<p></p>
+<h8>Lets Keep in Touch!</h8>
+<a href="https://tyresedesigns.com/">Visit tyresedesigns.com!</a>
+</head>
